@@ -1,0 +1,63 @@
+h1 {
+    font-size: 50pt;
+    font-family: 'indie flower', cursive;
+    text-align:  center;
+    color: navy;
+    
+  }
+title {
+    font-size: 50pt;
+    font-family: 'comic sans', cursive;
+    text-align: center;
+    
+  } 
+search {
+    font-size: 20pt;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+  
+body {
+    color: navy;
+    background-image: url("../public/assets/88d37ecb42692bddda8f2c3a5ffc65f6--poke-pokemon-pokemon-fan.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20pt;
+}
+
+.submit {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(2, 5, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+#imgTwo {
+  position: relative;
+  height: 10em;
+  width: 10em;
+  text-align: center;
+
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.results {
+  text-align: center;
+}
